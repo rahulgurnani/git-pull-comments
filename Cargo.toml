@@ -1,0 +1,8 @@
+[package]
+name = "git-pull-comments"
+version = "0.1.0"
+authors = ["rahulgurnani <rahulgurnani09@gmail.com>"]
+
+[dependencies]
+git2 = "0.7"
+url = "1.7.1"
